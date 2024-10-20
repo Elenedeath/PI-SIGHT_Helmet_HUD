@@ -21,6 +21,11 @@ PI-SIGHT Helmet HUD는 헬멧 외부에 장착하여 사용자의 눈앞에 필�
  - 누구든지 필요한 프로그램과 모듈을 제작해 사용할 수 있습니다.
 
 
+## 제작 방법
+
+ - 업로드 예정
+
+
 ## 주의사항
 
  - _PI-SIGHT는 다양한 환경에서 충분한 테스트를 거치지 않았습니다. 제작과 사용은 자유지만, 그로 인해 발생하는 문제에 대하여 책임지지 않습니다._
@@ -31,4 +36,4 @@ PI-SIGHT Helmet HUD는 헬멧 외부에 장착하여 사용자의 눈앞에 필�
 ## 커스터마이징
 
  - 무선 리모컨 펌웨어는 [PI-SIGHT Remote Controller SW](https://github.com/younsj97/PI-SIGHT_SW_RemoteController)를 참고하세요
- - PCB 회로 및 모듈 커넥터는 회로 안내 자료를 참고하세요
+ - PCB 회로 및 모듈 커넥터는 [회로](https://github.com/younsj97/PI-SIGHT_Helmet_HUD/blob/main/Documents/Circuits.pdf) 자료를 참고하세요
