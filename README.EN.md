@@ -10,7 +10,7 @@ The biggest feature of the device is that it uses a small general-purpose comput
  - Prism Display: You can check the necessary information without moving your head or holding a separate device through the 3000cd/m^2 display located in front of your eyes.
  - General-purpose system: Using the Raspberry Pi, a general-purpose Linux computer, you can easily develop and apply programs and sensors suited to your purpose.
  - Interchangeable module system: Allows easy replacement of programs and modules, allowing one device to be used for a variety of activities
- - For more information on the wireless remote control, rear camera, etc., please visit the [VUDEV website](https://sites.google.com/vudev.net/vudevnet/about-pi-sight) or download the [manual](https://github.com/younsj97/PI-SIGHT_Helmet_HUD/blob/main/PI-SIGHT%20%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C-1%20(%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%B3%B8).pdf).
+ - For more information on the wireless remote control, rear camera, etc., please visit the [VUDEV website](https://sites.google.com/vudev.net/vudevnet/about-pi-sight) or download the [manual](https://github.com/younsj97/PI-SIGHT_Helmet_HUD/blob/main/PI-SIGHT%20%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C-1%20(%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%20%EA%B8%B0%EB%B3%B8).EN.pdf).
 
 
 ## Software
